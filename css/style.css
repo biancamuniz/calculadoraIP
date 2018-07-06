@@ -1,0 +1,18 @@
+.h1{
+    padding-top: 40px;
+    padding-left: 30px;
+}
+
+.h3{
+    padding-left: 30px;
+}
+
+
+.ui.form{
+    align-items: center;
+    padding-left: 30px;
+}
+
+.inline.field{
+    text-align: center;
+}
